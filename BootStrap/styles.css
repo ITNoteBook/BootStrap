@@ -1,0 +1,16 @@
+/* Стили для формы */
+.custom-form {
+    background-color: FloralWhite; /* Черный цвет фона */
+    padding: 340px; /* Отступы слева и справа */
+    border-bottom-left-radius: 5px; /* Закругление левого нижнего угла */
+    border-bottom-right-radius: 5px; /* Закругление правого нижнего угла */
+    max-width: 750px;
+    border-left: 1px solid rgb(101, 103, 102);
+    border-right: 1px solid rgb(101, 103, 102);
+
+    
+
+}
+
+
+  
